@@ -1,0 +1,24 @@
+_repo: HannaGebet--und-Andachtsbuch-f-r-israelitische-Frauen-und-M-dchen_42670
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freund, Jacob
+    gutenberg_agent_id: '41808'
+    url: http://www.gutenberg.org/2009/agents/41808
+description: ''
+gutenberg_issued: '2013-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42670'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BM'
+- !lcsh 'Judaism -- Prayers and devotions'
+title: 'Hanna: Gebet- und Andachtsbuch für israelitische Frauen und Mädchen'
+url: http://www.gutenberg.org/ebooks/42670
