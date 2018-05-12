@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41808'
     url: http://www.gutenberg.org/2009/agents/41808
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42670#HannaGebet--und-Andachtsbuch-f-r-israelitische-Frauen-und-M-dchen
 gutenberg_issued: '2013-05-08'
 gutenberg_type: Text
 identifiers:
